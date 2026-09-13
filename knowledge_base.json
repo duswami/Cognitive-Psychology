@@ -1,22 +1,27 @@
 {
   "behavioral-psychology.md": {
-    "topics": ["classical conditioning", "operant conditioning", "reinforcement", "punishment", "shaping", "extinction", "stimulus", "response", "habit", "behaviorism"],
-    "researchers": ["Ivan Pavlov", "B.F. Skinner", "John B. Watson", "Edward Thorndike"],
-    "summary": "Behavior shaped by environmental consequences. Classical conditioning pairs stimuli. Operant conditioning uses reinforcement and punishment."
+    "topics": ["classical conditioning", "operant conditioning", "reinforcement", "punishment", "shaping", "extinction", "stimulus", "response", "habit", "behaviorism", "skinner", "pavlov", "watson", "thorndike", "ptsd", "trauma", "anxiety", "hyperarousal", "shell shock", "fear conditioning"],
+    "researchers": ["Ivan Pavlov", "B.F. Skinner", "John B. Watson", "Edward Thorndike", "Clark Hull", "Aaron Beck"],
+    "summary": "Behavior shaped by environmental consequences. Classical conditioning pairs stimuli. Operant conditioning uses reinforcement and punishment. PTSD modeled as conditioned fear response (Pavlov) with reinforced avoidance (Skinner)."
   },
   "cognitive-psychology.md": {
-    "topics": ["memory", "attention", "perception", "decision making", "problem solving", "language", "information processing", "schema", "cognitive load", "working memory"],
-    "researchers": ["Jean Piaget", "Hermann Ebbinghaus", "Frederic Bartlett", "Ulric Neisser", "George Miller"],
-    "summary": "Studies mental processes: perception, memory, thinking, decision-making. Mind as information processor."
+    "topics": ["memory", "attention", "perception", "decision making", "problem solving", "language", "information processing", "schema", "cognitive load", "working memory", "long-term memory", "piaget", "ebbinghaus", "bartlett", "hallucination", "ptsd", "cognitive distortion", "appraisal"],
+    "researchers": ["Jean Piaget", "Hermann Ebbinghaus", "Frederic Bartlett", "Ulric Neisser", "George Miller", "Aaron Beck", "Albert Ellis"],
+    "summary": "Studies mental processes: perception, memory, thinking, decision-making. Mind as information processor. Hallucinations as top-down perceptual errors; PTSD cognitive distortions (Beck)."
   },
   "key-concepts.md": {
-    "topics": ["reinforcement", "punishment", "conditioning", "memory", "attention", "perception", "schema", "cognitive dissonance", "habit formation"],
+    "topics": ["reinforcement", "punishment", "conditioning", "memory", "attention", "perception", "schema", "cognitive dissonance", "habit formation", "extinction", "ptsd", "hallucination", "hypertension"],
     "researchers": [],
-    "summary": "Core concepts bridging behavioral and cognitive approaches."
+    "summary": "Core concepts bridging behavioral and cognitive approaches. PTSD integrates conditioning and cognitive schemas."
   },
   "key-researchers.md": {
-    "topics": ["pavlov", "skinner", "watson", "piaget", "ebbinghaus", "wundt", "james", "freud", "jung", "tolman"],
-    "researchers": ["Wilhelm Wundt", "William James", "Sigmund Freud", "Carl Jung", "Edward Tolman"],
-    "summary": "Historical figures who shaped the fields."
+    "topics": ["pavlov", "skinner", "watson", "piaget", "ebbinghaus", "wundt", "james", "freud", "jung", "tolman", "beck", "ellis", "ptsd"],
+    "researchers": ["Wilhelm Wundt", "William James", "Sigmund Freud", "Carl Jung", "Edward Tolman", "Aaron Beck", "Albert Ellis"],
+    "summary": "Historical figures who shaped the fields. Added Beck and Ellis for cognitive therapy in PTSD."
+  },
+  "ptsd-specific.md": {
+    "topics": ["ptsd", "trauma", "shell shock", "hallucination", "auditory hallucination", "visual hallucination", "hypertension", "hyperarousal", "gulf war", "veteran", "prolonged exposure", "cognitive processing therapy", "emdr"],
+    "researchers": ["Ivan Pavlov", "B.F. Skinner", "Aaron Beck", "Albert Ellis", "Pierre Janet"],
+    "summary": "PTSD as conditioned fear (Pavlov), reinforced avoidance (Skinner), cognitive distortions (Beck). Hallucinations common and trauma-linked. Hypertension via sympathetic activation. First-line: PE, CPT, EMDR."
   }
 }
