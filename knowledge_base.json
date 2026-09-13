@@ -1,0 +1,22 @@
+{
+  "behavioral-psychology.md": {
+    "topics": ["classical conditioning", "operant conditioning", "reinforcement", "punishment", "shaping", "extinction", "stimulus", "response", "habit", "behaviorism"],
+    "researchers": ["Ivan Pavlov", "B.F. Skinner", "John B. Watson", "Edward Thorndike"],
+    "summary": "Behavior shaped by environmental consequences. Classical conditioning pairs stimuli. Operant conditioning uses reinforcement and punishment."
+  },
+  "cognitive-psychology.md": {
+    "topics": ["memory", "attention", "perception", "decision making", "problem solving", "language", "information processing", "schema", "cognitive load", "working memory"],
+    "researchers": ["Jean Piaget", "Hermann Ebbinghaus", "Frederic Bartlett", "Ulric Neisser", "George Miller"],
+    "summary": "Studies mental processes: perception, memory, thinking, decision-making. Mind as information processor."
+  },
+  "key-concepts.md": {
+    "topics": ["reinforcement", "punishment", "conditioning", "memory", "attention", "perception", "schema", "cognitive dissonance", "habit formation"],
+    "researchers": [],
+    "summary": "Core concepts bridging behavioral and cognitive approaches."
+  },
+  "key-researchers.md": {
+    "topics": ["pavlov", "skinner", "watson", "piaget", "ebbinghaus", "wundt", "james", "freud", "jung", "tolman"],
+    "researchers": ["Wilhelm Wundt", "William James", "Sigmund Freud", "Carl Jung", "Edward Tolman"],
+    "summary": "Historical figures who shaped the fields."
+  }
+}
