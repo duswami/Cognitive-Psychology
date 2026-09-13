@@ -20,8 +20,13 @@
     "summary": "Historical figures who shaped the fields. Added Beck and Ellis for cognitive therapy in PTSD."
   },
   "ptsd-specific.md": {
-    "topics": ["ptsd", "trauma", "shell shock", "hallucination", "auditory hallucination", "visual hallucination", "hypertension", "hyperarousal", "gulf war", "veteran", "prolonged exposure", "cognitive processing therapy", "emdr"],
-    "researchers": ["Ivan Pavlov", "B.F. Skinner", "Aaron Beck", "Albert Ellis", "Pierre Janet"],
-    "summary": "PTSD as conditioned fear (Pavlov), reinforced avoidance (Skinner), cognitive distortions (Beck). Hallucinations common and trauma-linked. Hypertension via sympathetic activation. First-line: PE, CPT, EMDR."
+    "topics": ["ptsd", "trauma", "shell shock", "hallucination", "auditory hallucination", "visual hallucination", "hypertension", "hyperarousal", "gulf war", "veteran", "prolonged exposure", "cognitive processing therapy", "emdr", "night sweats", "tremors", "autonomic arousal", "dissociative subtype", "ptsd-sp"],
+    "researchers": ["Ivan Pavlov", "B.F. Skinner", "Aaron Beck", "Albert Ellis", "Pierre Janet", "Anke Ehlers", "Chris Brewin"],
+    "summary": "PTSD as conditioned fear (Pavlov), reinforced avoidance (Skinner), cognitive distortions (Beck). Hallucinations common and trauma-linked. Hypertension via sympathetic activation. First-line: PE, CPT, EMDR. Added somatic symptoms (night sweats, tremors) and trigger-specific hallucinations (loud sounds, bright lights)."
+  },
+  "symptom-correlations.md": {
+    "topics": ["night sweats", "tremors", "auditory hallucinations", "visual hallucinations", "loud sounds", "bright lights", "hyperarousal", "sympathetic activation", "conditioned stimuli", "multi-symptom correlation", "ptsd-sp", "dissociation"],
+    "researchers": ["Ivan Pavlov", "B.F. Skinner", "Aaron Beck", "Pierre Janet", "Anke Ehlers", "Chris Brewin"],
+    "summary": "Shared autonomic/fear-conditioning pathway links night sweats, tremors, and cue-triggered hallucinations in PTSD. Loud sounds and bright lights act as conditioned stimuli. Multi-symptom correlation supports non-axial DSM-5-TR formulation."
   }
 }
