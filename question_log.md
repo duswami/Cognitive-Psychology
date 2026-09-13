@@ -1,23 +1,17 @@
 # Question Log
 
-Questions asked by the user, classified against the knowledge base and cross-referenced with historical psychologists.
+## 2026-09-12
+- Q: Provide basic outline for addressing PTSD.
+  - ML match: behavioral-psychology.md, cognitive-psychology.md
+  - Researchers: Pavlov, Skinner, Beck
+  - Action: Added PTSD outline to handbook.md
 
-Format: Question | Top Document | Relevant Researchers | Notes
+- Q: Test sample - Gulf War veteran with PTSD symptoms (shell shock, anxiety, BP, hallucinations). Recommendations?
+  - ML match: behavioral-psychology.md (primary), cognitive-psychology.md (secondary)
+  - Researchers: Pavlov, Skinner, Beck, Ellis, Piaget
+  - Action: Added case analysis, hallucination differential, hypertension link to handbook.md
 
----
-
-## Test Sample: Gulf War Veteran PTSD with Hallucinations and Hypertension
-**Question:** Patient (military, Gulf War) experiencing shell shock, recurring anxiety, inability to control symptoms, high blood pressure, auditory and visual hallucinations. Treat as PTSD.
-**Top Document:** behavioral-psychology.md
-**Relevant Researchers:** Ivan Pavlov, B.F. Skinner, Aaron Beck, Albert Ellis, Jean Piaget
-**Matched Topics:** classical conditioning, operant conditioning, reinforcement, schema, perception, memory
-**Notes:** Sandbox test only. Hallucinations often trauma-linked in PTSD (retained insight). Hypertension via sympathetic activation. First-line: PE/CPT/EMDR + SSRIs. Cross-referenced repo MDs and VA/DoD 2023. Added to handbook.md.
-**Date:** 2026-09-12
-
----
-
-## How this works
-- Each question is tokenized and matched against topics and researchers in the MD files.
-- A lightweight TF-IDF-style scorer picks the most relevant document.
-- Matching researchers are surfaced for cross-reference.
-- Over time the log builds a personal learning history.
+- Q: APA guidelines cross-axial analysis of multi-symptom correlation for night sweats, tremors, auditory hallucinations (loud sounds), visual hallucinations (bright lights).
+  - ML match: cognitive-psychology.md (perception, memory), behavioral-psychology.md (conditioning)
+  - Researchers: Pavlov, Skinner, Beck, Janet, Ehlers & Clark, Brewin
+  - Action: Added DSM-5-TR cross-axial analysis section to handbook.md; updated knowledge_base.json with symptom correlations and trigger-specific entries.
